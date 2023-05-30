@@ -1,0 +1,25 @@
+.post_card {
+  margin-bottom: 10px;
+}
+.post_card img {
+  width: 50px;
+}
+.menu_listGroup .list-group-item {
+  border: none;
+  background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;
+  color: var(--bs-nav-link-color)
+}
+.navbar img {
+  width: 60px;
+}
+.menu-navBar .dropdown-menu a {
+  padding: 0;
+}
+.menu-navBar .dropdown-menu {
+  padding: 10px;
+  left: -280px !important;
+  top: 50px !important;
+}
+.menu-navBar .dropdown-menu div {
+  padding-top: 3px;
+}
